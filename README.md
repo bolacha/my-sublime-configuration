@@ -1,31 +1,39 @@
 ### Sublime Plugins and Configuration
 
-DockBlockr - https://packagecontrol.io/packages/DocBlockr
+- DockBlockr - https://packagecontrol.io/packages/DocBlockr
 
-ConsoleWrap for JS - https://packagecontrol.io/packages/Console%20Wrap%20for%20js
+- ConsoleWrap for JS - https://packagecontrol.io/packages/Console%20Wrap%20for%20js
 
 ```
 {"keys": ["ctrl+shift+q"], "command": "consolewrap"}
 ```
 
-Bracket​Highlighter - https://packagecontrol.io/packages/BracketHighlighter
+- Bracket​Highlighter - https://packagecontrol.io/packages/BracketHighlighter
 
-Emmet - https://packagecontrol.io/packages/Emmet
+- Emmet - https://packagecontrol.io/packages/Emmet
 
-HTML5 - https://packagecontrol.io/packages/HTML5
+- HTML5 - https://packagecontrol.io/packages/HTML5
 
-LESS - https://packagecontrol.io/packages/LESS
+- LESS - https://packagecontrol.io/packages/LESS
 
-Random Everything - https://packagecontrol.io/packages/Random%20Everything
+- Random Everything - https://packagecontrol.io/packages/Random%20Everything
 
-SublimeLinter - https://packagecontrol.io/packages/SublimeLinter
-Sublime​Linter-json - https://packagecontrol.io/packages/SublimeLinter-json
-Sublime​Linter-jshint - https://packagecontrol.io/packages/SublimeLinter-jshint
+- SublimeLinter - https://packagecontrol.io/packages/SublimeLinter
+- Sublime​Linter-json - https://packagecontrol.io/packages/SublimeLinter-json
+- Sublime​Linter-jshint - https://packagecontrol.io/packages/SublimeLinter-jshint
 `
 npm install -g jshint
 `
 
-Sublime​Code​Intel - https://packagecontrol.io/packages/SublimeCodeIntel
+- Sublime​Code​Intel - https://packagecontrol.io/packages/SublimeCodeIntel
+`
+{
+  "codeintel_scan_exclude_dir":["node_modules/"],
+}
+`
+
+- Color Highlighter - https://packagecontrol.io/packages/Color%20Highlighter
+
 
 ### Changes 
 
