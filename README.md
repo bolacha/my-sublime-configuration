@@ -36,6 +36,8 @@ npm install -g jshint
 
 - Color Highlighter - https://packagecontrol.io/packages/Color%20Highlighter
 
+- Side​Bar​Enhancements - https://packagecontrol.io/packages/SideBarEnhancements
+
 
 ### Changes 
 
