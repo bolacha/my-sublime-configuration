@@ -27,11 +27,12 @@ npm install -g jshint
 ```
 
 - Sublime​Code​Intel - https://packagecontrol.io/packages/SublimeCodeIntel
-`
+
+```json
 {
-  "codeintel_scan_exclude_dir":["node_modules/"],
+  "codeintel_scan_exclude_dir":["node_modules/"]
 }
-`
+```
 
 - Color Highlighter - https://packagecontrol.io/packages/Color%20Highlighter
 
