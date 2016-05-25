@@ -21,9 +21,10 @@
 - SublimeLinter - https://packagecontrol.io/packages/SublimeLinter
 - Sublime​Linter-json - https://packagecontrol.io/packages/SublimeLinter-json
 - Sublime​Linter-jshint - https://packagecontrol.io/packages/SublimeLinter-jshint
-`
+
+```
 npm install -g jshint
-`
+```
 
 - Sublime​Code​Intel - https://packagecontrol.io/packages/SublimeCodeIntel
 `
