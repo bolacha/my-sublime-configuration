@@ -38,6 +38,10 @@ npm install -g jshint
 
 - Side​Bar​Enhancements - https://packagecontrol.io/packages/SideBarEnhancements
 
+- AlignTab - https://packagecontrol.io/packages/AlignTab
+
+- Alignment - https://packagecontrol.io/packages/Alignment
+
 
 ### Changes 
 
